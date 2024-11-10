@@ -1,0 +1,3 @@
+﻿  sudokutest.cpp
+D:\visual\sd2\sd2\sudokutest.cpp(60,11): warning C4102: “defalt”: 未引用的标签
+  sd2.vcxproj -> D:\visual\sd2\Debug\sd2.exe
